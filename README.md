@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **jameswj11/jameswj11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* Frontend developer with a background in edTech and media.
+* Focused on debugging and improving existing systems.
+* Open to freelance and part-time contract dev work.
+* I maintain an active painting practice.
+* Interested in art, film, history, and travel.
+ 
+jameswj111@gmail.com
+
+Art practice: https://jamesming.studio
