@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 
 * Frontend developer with a background in edTech and media.
-* Focused on debugging and improving existing systems.
+* Currently working on JS tools to generate ideas for my painting practice.
 * Open to freelance and part-time contract dev work.
-* I maintain an active painting practice.
 * Interested in art, film, history, and travel.
  
 jameswj111@gmail.com
