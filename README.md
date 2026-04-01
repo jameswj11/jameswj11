@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* Frontend developer with a background in edTech and media.
+* Frontend developer with a background in edTech and game development.
 * Currently working on JS tools to generate ideas for my painting practice.
 * Open to freelance and part-time contract dev work.
 * Interested in art, film, history, and travel.
