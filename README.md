@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 * Interested in art, film, history, and travel.
  
 jameswj111@gmail.com
+
 jamesming.studio
