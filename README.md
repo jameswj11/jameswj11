@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* Frontend developer with a background in edTech and game development.
-* Currently working on JS tools to generate ideas for my painting practice.
-* Open to freelance and part-time contract dev work.
+
+* RISD MFA-trained painter with an active studio practice.
+* Software developer with a background in edTech and game development.
 * Interested in art, film, history, and travel.
  
 jameswj111@gmail.com
-
-Art practice: https://jamesming.studio
+jamesming.studio
