@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 * Software developer with a background in edTech and game development.
 * Interested in art, film, history, and travel.
  
-jameswj111@gmail.com[space][space]
+jameswj111@gmail.com [space][space]
 
 jamesming.studio
